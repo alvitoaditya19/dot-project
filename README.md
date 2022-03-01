@@ -1,9 +1,10 @@
+# Alasan Memakai Pattern MVC
 Pattern yang saya gunakan pada project ini adalah MVC (Model, View, Controller)
 Alasan saya menggunakan pattern MVC adalah karena pattern ini banyak digunakan oleh para programmer dan sudah saya pelajari sebelumnya di beberapa bahasa pemrograman seperti Flutter atau Dart dan Express JS, yang penggunannya cenderung mudah bagi saya. Selain itu, pattern atau arsitektur ini memisahkan antara User Interface atau tampilaan website dengan logika bisnis yang digunakan untuk mengakses data,Sehingga hal ini akan meningkatkan pemeliharan, pengembangan dan fleksibilitas website. Kita dapat melakukkan penggunaan kembali komponen atau reusable komponen pada beberapa bagian dan merubah tampilan website sesuai keinginan kita, sedangkan model logika data atau logika bisnis sebagai controller tetap sama, sehingga hal ini akan mempermudah programmer untuk menyusun website yang lebih kompleks, lebih baik dan menghemat baris program.
 
 
 
-Our Priview Project
+# Our Priview Project
 ![api](https://user-images.githubusercontent.com/88970775/156259342-bc0994b8-0d55-4a84-aa69-d2f14af05df7.PNG)
 ![category](https://user-images.githubusercontent.com/88970775/156259348-e8ba321b-d61c-402d-abbb-73ebadbea880.PNG)
 ![dashboard](https://user-images.githubusercontent.com/88970775/156259357-f3fb9360-e385-4f56-be73-b18854553e00.PNG)
