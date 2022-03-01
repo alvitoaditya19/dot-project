@@ -4,7 +4,7 @@ Alasan saya menggunakan pattern MVC adalah karena pattern ini banyak digunakan o
 
 
 
-# Our Priview Project
+# My Priview Project
 ![api](https://user-images.githubusercontent.com/88970775/156259342-bc0994b8-0d55-4a84-aa69-d2f14af05df7.PNG)
 ![category](https://user-images.githubusercontent.com/88970775/156259348-e8ba321b-d61c-402d-abbb-73ebadbea880.PNG)
 ![dashboard](https://user-images.githubusercontent.com/88970775/156259357-f3fb9360-e385-4f56-be73-b18854553e00.PNG)
